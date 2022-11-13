@@ -1,8 +1,9 @@
-# BananaFuzzer
+# Banana Fuzzer
+## Easy and useful directory fuzzer!
 
-This is a simple directory fuzzer using python.
+BananaFuzzer is a basic directory fuzz created by python.
 
-Step1-> Enter the url
-Step2-> Enter the ext
-Step3-> Enter wordlist path
-Step4-> Enjoy fuzzing!
+ - Enter the url
+- Enter the ext
+- Enter worlist
+- ✨Enjoy✨
