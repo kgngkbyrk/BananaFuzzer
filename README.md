@@ -1,4 +1,4 @@
-# Banana Fuzzer
+# BananaFuzzer
 ## Easy and useful directory fuzzer!
 
 BananaFuzzer is a basic directory fuzz created by python.
